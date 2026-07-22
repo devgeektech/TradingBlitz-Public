@@ -52,6 +52,7 @@ Trading Blitz is a **stock trading simulator game** that lets you practice techn
 | **In-App Web Content** | WebView |
 | **API Layer** | REST APIs |
 | **Charts** | TradingView |
+| **Social Integration** | Google, Apple & LinkedIn Sign-In |
 
 ---
 
