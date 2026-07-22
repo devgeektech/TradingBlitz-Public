@@ -1,0 +1,20 @@
+@echo off
+"C:\\Users\\GT0659\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HE:\\flutter-sdk\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\scripts" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=26" ^
+  "-DANDROID_PLATFORM=android-26" ^
+  "-DANDROID_ABI=arm64-v8a" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a" ^
+  "-DANDROID_NDK=C:\\Users\\GT0659\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\GT0659\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\GT0659\\AppData\\Local\\Android\\Sdk\\ndk\\29.0.14033849\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\GT0659\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\\TradingBlitz-Public\\android\\app\\build\\intermediates\\cxx\\debug\\s2g1m5k6\\obj\\arm64-v8a" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=F:\\TradingBlitz-Public\\android\\app\\build\\intermediates\\cxx\\debug\\s2g1m5k6\\obj\\arm64-v8a" ^
+  "-BF:\\TradingBlitz-Public\\android\\app\\.cxx\\debug\\s2g1m5k6\\arm64-v8a" ^
+  -GNinja ^
+  -Wno-dev ^
+  --no-warn-unused-cli ^
+  "-DCMAKE_BUILD_TYPE=debug"
