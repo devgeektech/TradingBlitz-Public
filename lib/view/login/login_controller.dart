@@ -23,9 +23,9 @@ class LoginController extends GetxController {
 
   LoginController({required this.parser});
 
-  String redirectUrl = 'https://tradingblitz.com/accounts/oidc/linkedin-server/login/callback/';
-  String clientId = '782ac2v88p83fd';
-  String clientSecret = 'LvJDgFYDuZmEs58x';
+  String redirectUrl = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX';
+  String clientId = 'XXXXXXXXXXXXXXXXX';
+  String clientSecret = 'XXXXXXXXXXXXXXXXXXX';
   UserObject? user;
   bool logoutUser = false;
 
