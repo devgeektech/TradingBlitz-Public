@@ -1,4 +1,4 @@
-# laeeb
+# Trading Blitz
 
 A new Flutter project.
 
