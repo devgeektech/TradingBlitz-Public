@@ -159,9 +159,9 @@ Specify your license here (e.g. MIT, Apache 2.0, or "Proprietary — All Rights 
 
 ## 📬 Contact & Support
 
-- 🌐 Website: [tradingblitz.com](https://geekinformatic.com/)
-- ✉️ Support: [support@tradingblitz.com](https://geekinformatic.com/contact-us/)
-- 🔒 Privacy Policy: [tradingblitz.com/privacy](https://geekinformatic.com/privacy-policy-2/)
+- 🌐 Website: [GeekTech.com](https://geekinformatic.com/)
+- ✉️ Support: [geekinformatic@tradingblitz.com](https://geekinformatic.com/contact-us/)
+- 🔒 Privacy Policy: [geekinformatic.com/privacy](https://geekinformatic.com/privacy-policy-2/)
 
 <div align="center">
 </div>
