@@ -5,10 +5,7 @@ import 'package:flutter_web_auth_2/flutter_web_auth_2.dart';
 import 'package:trading/backend/helper/api_helper.dart';
 
 class LinkedInLogin {
-  final clientId = '86nqnss0tc83az';
-  final clientSecret = 'WPL_AP1.YVsrLuaArxyt0df7.5YbAcA==';
-  final redirectUri = 'https://devgeektech.github.io/linkedin-redirect/redirect.html';
-  final state = 'DCEeFWf45A53sdfKef424';
+
 
   final dio = Dio();
 
