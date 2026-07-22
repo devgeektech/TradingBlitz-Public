@@ -6,18 +6,18 @@ import 'package:intl/intl.dart';
 import 'package:trading/utils/theme.dart';
 
 class Utils {
-  static const String baseUrl = "https://tradingblitz.com/api/";
-  static const String baseUrl1 = "https://tradingblitz.com/";
-  static const String socketUrl = "wss://tradingblitz.com/ws/";
+  static const String baseUrl = "https://google.com";
+  static const String baseUrl1 = "https://google.com/";
+  static const String socketUrl = "wss://google.com/";
 
 
-  static const String teams = "https://tradingblitz.com/terms";
-  static const String policy = "https://tradingblitz.com/privacy";
-  static const String loginVideoUrl = "https://tradingblitz.games/wp-content/uploads/video/tb-welcome.mp4";
+  static const String teams = "https://google.com/terms";
+  static const String policy = "https://google.com/privacy";
+  static const String loginVideoUrl = "https://uploads/video/tb-welcome.mp4";
 
 
 
-  static const String soloUrl = "https://tradingblitz.com/play?social_login=false&is_mobile=true&access_token=";
+  static const String soloUrl = "https://google.com/play?social_login=false&is_mobile=true&access_token=";
 
   static void showProgressbar() {
     Get.dialog(
